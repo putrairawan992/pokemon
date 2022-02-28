@@ -1,3 +1,6 @@
+Before Start
+`npm install`
+
 Start Dev
 `npm start`
 
